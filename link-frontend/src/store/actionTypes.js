@@ -1,0 +1,1 @@
+export const POST_LINKS_SUCCESS = "POST_LINKS_SUCCESS";
