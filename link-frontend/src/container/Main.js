@@ -23,7 +23,6 @@ const Main = () => {
       <h1>Shorten your link!</h1>
       <form onSubmit={onSubmit} className="link-form">
         <input className="link-input" value={linkUrl} onChange={handleChange} required />
-
         <button className="link-btn" type="submit">
           Shorten!
         </button>
